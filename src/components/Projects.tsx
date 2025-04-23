@@ -33,7 +33,7 @@ const projects = [
     image: "/images/pizza.png"
   },
   {
-    title: "Mental Health Guide App",
+    title: "Panic Attack Guide App",
     description: "Resourceful app centralizing information about panic attacks and anxiety, featuring coping strategies and guidance.",
     tech: ["R", "Shiny", "Healthcare"],
     link: "https://goyal-harsh2270.shinyapps.io/panic_attack/",
