@@ -9,35 +9,35 @@ const projects = [
     description: "Developed a smart fraud detection system using predictive analytics in R to identify suspicious insurance claims. The model evaluates patterns in customer data to flag potential frauds. Features Negotiator AI for optimal premium suggestions.",
     tech: ["R", "Predictive Analytics", "API Integration"],
     link: "#",
-    image: "photo-1526374965328-7f61d4dc18c5"
+    image: "/images/insu.png"
   },
   {
     title: "Mood Predictor App",
     description: "A lightweight mood prediction application that uses simple user inputs to predict mood. Features real-time interactivity and data-driven insights.",
     tech: ["R", "Shiny", "Machine Learning"],
     link: "https://goyal-harsh2270.shinyapps.io/predictive_analysis/",
-    image: "photo-1581091226825-a6a2a5aee158"
+    image: "/images/mood.png"
   },
   {
     title: "Dynamic Inventory Optimization System (DIOS)",
     description: "Real-time stock level management and demand forecasting tool. Identifies optimum inventory quantities based on sales trends.",
     tech: ["R", "Predictive Analytics", "Shiny"],
     link: "#",
-    image: "photo-1461749280684-dccba630e2f6"
+    image: "/images/dios.png"
   },
   {
     title: "Pizza Sales Dashboard",
     description: "Dynamic dashboard analyzing pizza sales across categories, time periods, and customer segments with live filtering capabilities.",
     tech: ["Tableau Desktop"],
     link: "#",
-    image: "photo-1498050108023-c5249f4df085"
+    image: "/images/pizza.png"
   },
   {
     title: "Mental Health Guide App",
     description: "Resourceful app centralizing information about panic attacks and anxiety, featuring coping strategies and guidance.",
     tech: ["R", "Shiny", "Healthcare"],
     link: "https://goyal-harsh2270.shinyapps.io/panic_attack/",
-    image: "photo-1500673922987-e212871fec22"
+    image: "/images/panic.png"
   }
 ];
 

@@ -38,7 +38,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-semibold mb-4 text-white">Resume</h3>
             <p className="mb-4">Download my latest resume to learn more about my skills and experience.</p>
-            <Button variant="outline" className="bg-white hover:bg-gray-100" onClick={() => window.open('/resume.pdf', '_blank')}>
+            <Button variant="outline" className="bg-black hover:bg-gray-100" onClick={() => window.open('/resume.pdf', '_blank')}>
               Download Resume
             </Button>
           </div>
