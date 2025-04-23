@@ -28,7 +28,7 @@ const Navbar = () => {
               <Button
                 key={item}
                 variant="ghost"
-                className="text-gray-600 hover:text-gray-900 capitalize"
+                className="text-gray-600 hover:text-gray-900 shadow-lg capitalize"
                 onClick={() => scrollToSection(item)}
               >
                 {item}
@@ -36,7 +36,7 @@ const Navbar = () => {
             ))}
             <Button 
               variant="default"
-              className="bg-gradient-to-r from-blue-600 to-purple-600 text-white"
+              className="bg-gradient-to-r from-blue-600 to-purple-600 shadow-lg text-white animate-pulse"
               onClick={() => window.open('/resume.pdf', '_blank')}
             >
               Resume
