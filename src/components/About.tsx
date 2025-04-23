@@ -12,7 +12,9 @@ const About = () => {
           <CardContent className="p-6 md:p-8">
             <p className="text-gray-600 leading-relaxed mb-6">
               I'm a B.Tech CSE student specializing in Data Science at Lovely Professional University (LPU). My passion lies in leveraging AI and data analytics to create innovative solutions that make a real difference.
-              Fueled by coffee ☕ and curiosity — always exploring data, AI, and the art of clean code.
+            </p>
+            <p className="text-gray-600 leading-relaxed mb-6">
+            Fueled by coffee ☕ and curiosity — always exploring data, AI, and the art of clean code.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
               With a strong foundation in R, Tableau, and Power BI, I focus on transforming complex data into actionable insights. My academic journey has equipped me with both theoretical knowledge and practical experience in data science and machine learning.
