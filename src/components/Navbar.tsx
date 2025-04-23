@@ -37,7 +37,7 @@ const Navbar = () => {
             <Button 
               variant="default"
               className="bg-gradient-to-r from-blue-600 to-purple-600 shadow-lg text-white animate-pulse"
-              onClick={() => window.open('/resume.pdf', '_blank')}
+              onClick={() => window.open('/harsh_cv.pdf', '_blank')}
             >
               Resume
             </Button>
