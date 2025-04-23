@@ -53,7 +53,7 @@ const Projects = () => {
             <Card key={project.title} className="group hover:shadow-lg transition-shadow">
               <div className="relative h-48 overflow-hidden rounded-t-lg">
                 <img
-                  src={`https://images.unsplash.com/${project.image}`}
+                  src={`${project.image}`}
                   alt={project.title}
                   className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
                 />
